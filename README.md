@@ -1,4 +1,4 @@
-## Projeto: Monitor de Qualidade do Ar com ESP32, Wokwi e MQTT (HiveMQ)
+## Projeto: Monitor de Qualidade do Ar com ESP32, Wokwi e MQTT
 
 Este repositório contém um projeto de monitoramento de qualidade do ar usando **ESP32**, **sensor de gás**, **LCD I2C 16x2** e um **LED**, desenvolvido e simulado na plataforma [Wokwi](https://wokwi.com/).  
 Os dados são enviados via **MQTT** para o broker público **HiveMQ** (`broker.hivemq.com`).
